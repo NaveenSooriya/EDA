@@ -1,47 +1,50 @@
-# Unveiling Insights from Paddy Power's Behavioural and Transactional Data
-Exploratory Data Analysis
+# Exploratory Data Analysis
+
+Unveiling Insights from Paddy Power's Behavioural and Transactional Data
 Title: Unveiling Insights from Paddy Power's Behavioural and Transactional Data
 
 
-Introduction:
-In this blog post, we delve into the world of Paddy Power, a renowned online betting platform, and explore the intriguing insights derived from their behavioural and transactional data. By utilizing a tool that tracks site performance and customer behaviour, along with transactional data from their data warehouse, we gain valuable knowledge about customer actions and preferences. Additionally, the presence of promotion dates enables us to analyze the impact of promotional activities. Let's dive into the fascinating findings we uncovered during our analysis.
+# Introduction:
+In this project, we delve into the world of Paddy Power, a renowned online betting platform, and explore the intriguing insights derived from their behavioural and transactional data. By utilizing a tool that tracks site performance and customer behaviour, along with transactional data from their data warehouse, we gain valuable knowledge about customer actions and preferences. Additionally, the presence of promotion dates enables us to analyze the impact of promotional activities. Let's dive into the fascinating findings we uncovered during our analysis.
 
 
-Part 1: Behavioural Data Analysis:
+# Part 1: Behavioural Data Analysis:
 We began our exploration by examining the behavioural data obtained from the tracking tool. This dataset allows us to understand how customers interact with the Paddy Power website, providing valuable insights into their browsing habits, engagement patterns, and preferences. By utilizing various data analysis techniques, we uncovered several noteworthy findings:
 
 
-User Journey Analysis:
+# User Journey Analysis:
 We traced the user journey from the moment customers land on the website until they complete a desired action, such as placing a bet or exploring various sections. This analysis sheds light on the most common paths taken by customers and identifies potential bottlenecks or areas for improvement in the user experience.
 
 
-Website Performance Assessment:
+# Website Performance Assessment:
 By scrutinizing the data related to site performance metrics, such as page load times, click-through rates, and bounce rates, we gained a comprehensive understanding of the website's overall performance. This evaluation helps identify areas where improvements can be made to enhance user satisfaction and increase conversion rates.
 
 
-Customer Segmentation:
+# Customer Segmentation:
 Applying clustering techniques to the behavioural data, we uncovered distinct customer segments based on their browsing patterns, preferences, and engagement levels. This segmentation enables Paddy Power to tailor their marketing strategies and offers to specific customer groups, resulting in improved customer satisfaction and retention.
 
 
-Part 2: Transactional Data Analysis:
+# Part 2: Transactional Data Analysis:
 In addition to behavioural data, we delved into Paddy Power's transactional data obtained from their data warehouse. This dataset provides crucial information about customer transactions, including bet placements, amounts wagered, and winnings. By examining this data, we were able to extract valuable insights:
 
 
-Customer Lifetime Value (CLV) Analysis:
+# Customer Lifetime Value (CLV) Analysis:
 We calculated the CLV of Paddy Power's customers to understand their long-term value to the business. By segmenting customers based on their CLV, we can identify high-value customers who warrant special attention and devise strategies to maximize their retention and profitability.
 
 
-Promotional Campaign Analysis:
+# Promotional Campaign Analysis:
 By correlating transactional data with promotion dates, we evaluated the impact of promotional activities on customer behaviour and revenue generation. This analysis enables Paddy Power to optimize their promotional strategies, identify the most effective campaigns, and refine their future marketing efforts accordingly.
 
 
-Product Performance Assessment:
+# Product Performance Assessment:
 By analyzing transactional data, we gained insights into the popularity of different betting products and wager types. This knowledge helps Paddy Power tailor their offerings, promotions, and user experience to cater to customer preferences, thus increasing customer satisfaction and engagement.
 
 
-Conclusion:
+# Conclusion:
 In conclusion, the analysis of Paddy Power's behavioural and transactional data offers valuable insights into customer behaviour, preferences, and engagement patterns. By understanding the customer journey, improving website performance, segmenting customers, and leveraging transactional data for CLV analysis and promotional campaign assessment, Paddy Power can make data-driven decisions to enhance customer satisfaction, increase revenue, and gain a competitive edge in the online betting industry. Leveraging these findings, Paddy Power is poised to deliver an exceptional user experience and build long-lasting customer relationships.
 
+
+# Problems to be solved 
 1.How many visits to the site did we get in week 51? 
 2.How did this compare to previous weeks? Is there any reason for this?
 3.Is there a relationship between site visits, actives and stakes?
