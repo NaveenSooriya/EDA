@@ -46,17 +46,29 @@ In conclusion, the analysis of Paddy Power's behavioural and transactional data 
 
 # Problems to be solved 
 1.How many visits to the site did we get in week 51? 
+
 2.How did this compare to previous weeks? Is there any reason for this?
+
 3.Is there a relationship between site visits, actives and stakes?
+
 4.In what proportion of visits was a bet placed in week 38, 2020/21? Would you say that this performance was good in comparison to the following weeks? 
+
 5.Which ONE of the following statements is true?
+
 6.Conversion through the login process is 90%
+
 7.Users can arrive to the site logged-in
+
 8.Less than half unique visitors to site will begin the login process
+
 9.For users who are depositing, on average how many deposits do they place on a daily basis?
+
 10.What was the average deposit value per deposit placed in Mar-21?
+
 11.In terms of getting users to place a bet, what was our worst week for logged-in user -> actives conversion in 2021?
+
 12.What impact did we see from the Stake £5 Get 5 Free Bets campaign? Can we draw any conclusions from the data as to how successful the campaign was? 
+
 13.Looking at weeks 46-49 what proportion of visits that start reg go also complete step 2?
 Is there any week we see particularly high conversion through the registration process? Why do you think this is?
 Is there a particular day of the week we see a bigger engagement with the football section of the website? What do you think the reason for this could be?
