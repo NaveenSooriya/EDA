@@ -1,7 +1,7 @@
 # Exploratory Data Analysis
 
 <img width="1280" alt="Screenshot 2023-06-17 at 20 14 21" src="https://github.com/NaveenSooriya/EDA/assets/98401606/43151a9a-6370-4dff-96a8-50183f7b8bf6">
-Unveiling Insights from Paddy Power's Behavioural and Transactional Data
+
 
 Title: Unveiling Insights from Paddy Power's Behavioural and Transactional Data
 
